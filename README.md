@@ -5,11 +5,11 @@ This report is a test of story telling ability based of the #30daysoflearning ch
 # Project Objective: Problem Statement
 The Project aims at finding answers to the following questions:
 
-Yearly how many planes crashed? how many people were on board? how many survived? how many died?
-Highest number of crashes by operator and Type of aircrafts.
-What are the prevalent causes of aircraft crashes? 
-The number of crashed aircrafts and number of fatalities by the causes
-Coud there be any trend of evets between the crashes over the years?
+1. Yearly how many planes crashed? how many people were on board? how many survived? how many died?
+2. Highest number of crashes by operator and Type of aircrafts.
+3. What are the prevalent causes of aircraft crashes? 
+4. The number of crashed aircrafts and number of fatalities by the causes
+5. Coud there be any trend of evets between the crashes over the years?
 
 
 ---
