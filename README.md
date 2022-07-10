@@ -9,7 +9,7 @@ The Project aims at finding answers to the following questions:
 2. Highest number of crashes by operator and Type of aircrafts.
 3. What are the prevalent causes of aircraft crashes? 
 4. The number of crashed aircrafts and number of fatalities by the causes
-5. Coud there be any trend of evets between the crashes over the years?
+5. Coud there be any trend of events between the crashes over the years?
 
 
 ---
