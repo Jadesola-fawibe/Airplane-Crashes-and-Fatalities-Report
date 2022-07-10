@@ -27,4 +27,20 @@ I also created a date table
 
 ---
 # Findings and recommendation
+1. No of Crashes trended up, resulting in a 2,300.0 % increase between 1908 and 2009.
+
+2. No of Crashes started trending down on 2001, falling by 65.71% (46) in 8 years.
+
+3. No of Crashes dropped from 70 to 24 during its steepest decline between 2001 and 2009.
+
+4. Fatalities averaged 2356 per year between 1968 and 1996.
+
+5. Fatalities peaked at 2937 in 1972, before hitting a low point of 2059 in 1976
+
+6. Aircraft type Douglas DC 3 has the highest number of crashes, this could be due to manufacturer's malfunction.
+7. Based on the insight, there was a  spike in the number of crashes in the month of June among the top 5 years with the most crashes, this could be due to weather condition during the month. Also, crashes  caused by weather conditions are most likely to occur in December and January, July and August
+8. Aircraft by the operator Aeroflot and Military US are 2 times more likely to crash compared to other operators
+9. Apart from Unknown reason, Weather condition is more likely to cause airplane crash.
+  
+
 
