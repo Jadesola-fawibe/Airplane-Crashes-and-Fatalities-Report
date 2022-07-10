@@ -25,8 +25,27 @@ I deleted some colums, cleaned, trimmed, renamed and created some other ones
 I also created a date table
 
 
+
+---
+Data Analysis
+
+
+
+![Summary Page](https://user-images.githubusercontent.com/107186855/178155719-5279900f-4f57-46f1-9d3c-fc7a8088a083.PNG)
+
+
+
+
+![Airplane dashboard](https://user-images.githubusercontent.com/107186855/178155746-13f770cf-2559-4675-99d4-4dd9cc12400e.PNG)
+
+
+
+![Airplane dashboard, page 2](https://user-images.githubusercontent.com/107186855/178155754-e498b9d0-6878-400a-b49d-45b36d97b861.PNG)
+
+
 ---
 # Findings and recommendation
+
 1. No of Crashes trended up, resulting in a 2,300.0 % increase between 1908 and 2009.
 
 2. No of Crashes started trending down on 2001, falling by 65.71% (46) in 8 years.
