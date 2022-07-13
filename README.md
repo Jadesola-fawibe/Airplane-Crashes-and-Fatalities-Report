@@ -9,7 +9,8 @@ The Project aims at finding answers to the following questions:
 2. Highest number of crashes by operator and Type of aircrafts.
 3. What are the prevalent causes of aircraft crashes? 
 4. The number of crashed aircrafts and number of fatalities by the causes
-5. Coud there be any trend of events between the crashes over the years?
+5. Could there be any trend of events between the crashes over the years?
+ 
 
 
 ---
@@ -28,17 +29,21 @@ https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908
 
 ---
 Data Analysis
+The Report Consists of three pages.
+1. The first one describes and summarizes the data[descriptive analysis]. 
 
 
 
 ![Summary Page](https://user-images.githubusercontent.com/107186855/178155719-5279900f-4f57-46f1-9d3c-fc7a8088a083.PNG)
 
+2. The second page explores the data and answered questions 1 and 2 of the objective questions.
+It also shows the trend between airplane crashes between the top 5 years
 
 
 
 ![Airplane dashboard](https://user-images.githubusercontent.com/107186855/178155746-13f770cf-2559-4675-99d4-4dd9cc12400e.PNG)
 
-
+3. while the third page diagnosed the differnt causes of plane crashes, thereby answering questions 3 and 4
 
 ![Airplane dashboard, page 2](https://user-images.githubusercontent.com/107186855/178155754-e498b9d0-6878-400a-b49d-45b36d97b861.PNG)
 
@@ -48,4 +53,4 @@ Data Analysis
 1. Plane Crashes are most likely caused by weather condition; Airline operators should make good use of weather forecast information in planning flights time
 2. Manufacturers should make us of durable and trusted materials in making airplanes, so as to avoid technical failure. Also, proper maintenance should be carrie out on airplanes on the part of the operators.
 3. Passengers should avoid smoking while on board.
-4. Improved taking of and landing techniques will help to reduce crashes
+4. Improved taking off and landing techniques will help to reduce crashes
