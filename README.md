@@ -53,7 +53,7 @@ It also shows the trend between airplane crashes between the top 5 years
 
 
 ---
-# Findings and recommendation based on the insight
+# Findings and recommendations based on the insight
 1. Plane Crashes are most likely caused by weather condition; Airline operators should make good use of weather forecast information in planning flights time
 2. Manufacturers should make use of durable and trusted materials in making airplanes, so as to avoid technical failure. Also, proper maintenance should be carried out on airplanes on the part of the operators.
 3. Passengers should avoid smoking while on board.
