@@ -30,6 +30,10 @@ https://www.kaggle.com/datasets/saurograndi/airplane-crashes-since-1908
 ---
 Data Analysis
 The Report Consists of three pages.
+
+![Front page](https://user-images.githubusercontent.com/107186855/179012450-881cff19-ca05-4e66-9233-1326d10f4151.PNG)
+
+
 1. Picture A describes and summarizes the data[descriptive analysis]. 
 
 
